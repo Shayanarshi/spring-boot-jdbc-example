@@ -28,3 +28,12 @@ src/main/java
     │   └── OrderRepository.java
     └── runner
         └── MyAppRunner.java
+
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Shayanarshi/spring-boot-jdbc-example.git
+cd spring-boot-jdbc-example
